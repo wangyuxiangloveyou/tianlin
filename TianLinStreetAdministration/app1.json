@@ -1,0 +1,101 @@
+[
+  {
+    "deviceid": 1,
+    "projectid": 1,
+    "departmentid": 9,
+    "departmentName": "老黄浦分局",
+    "supplierid": 1,
+    "supplierName": "竞天",
+    "devicetype": 1,
+    "devicecategory": 1,
+    "devicecategoryName": "道路监控",
+    "devicenumber": "12001001",
+    "devicename": "延安天桥",
+    "devicenote": ""
+  },
+  {
+    "deviceid": 2,
+    "projectid": 1,
+    "departmentid": 9,
+    "departmentName": "老黄浦分局",
+    "supplierid": 1,
+    "supplierName": "竞天",
+    "devicetype": 1,
+    "devicecategory": 1,
+    "devicecategoryName": "道路监控",
+    "devicenumber": "12001002",
+    "devicename": "市政府"
+  },
+  {
+    "deviceid": 3,
+    "projectid": 1,
+    "departmentid": 9,
+    "departmentName": "老黄浦分局",
+    "supplierid": 1,
+    "supplierName": "竞天",
+    "devicetype": 1,
+    "devicecategory": 1,
+    "devicecategoryName": "道路监控",
+    "devicenumber": "12001003",
+    "devicename": "信访办"
+  },
+  {
+    "deviceid": 4,
+    "projectid": 1,
+    "departmentid": 9,
+    "departmentName": "老黄浦分局",
+    "supplierid": 1,
+    "supplierName": "竞天",
+    "devicetype": 1,
+    "devicecategory": 1,
+    "devicecategoryName": "道路监控",
+    "devicenumber": "12001004",
+    "devicename": "大世界天桥1"
+  },
+  {
+    "deviceid": 5,
+    "projectid": 1,
+    "departmentid": 9,
+    "departmentName": "老黄浦分局",
+    "supplierid": 1,
+    "supplierName": "竞天",
+    "devicetype": 1,
+    "devicecategory": 1,
+    "devicecategoryName": "道路监控",
+    "devicenumber": "12001005",
+    "devicename": "大世界天桥2"
+  }
+]
+
+ 
+ 
+ 
+ 
+ 
+{
+    "events" : [
+        {
+            "eventID" : "123",
+            "status" : "1",
+            "villageName" : "田林12村",
+            "buildingNo" : "4",
+            "createTime" : "2018-09-09",
+            "options" : [
+                "name":"五分钟后处理",
+                "code":"2018-09-09",
+            ]
+            
+        }
+        {
+            "eventID" : "id",
+            "status" : "1",
+            "villageName" : "田林12村",
+            "buildingNo" : "4",
+            "createTime" : "2018-09-09",
+            "options" : [
+                "name": "五分钟后处理",
+                "code": "2018-09-09"
+            ]
+        }
+    ]
+}

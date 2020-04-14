@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (4.8.0)
+  - CVCalendar (1.6.2)
+  - IQKeyboardManagerSwift (6.2.0)
+  - JCore (1.2.6)
+  - JPush (3.1.1.1):
+    - JCore (~> 1.2.5)
+  - Kingfisher (4.10.1)
+  - MBProgressHUD (1.1.0)
+  - MJExtension (3.0.15.1)
+  - MJRefresh (3.1.15.7)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (4.2.0)
+  - Toast-Swift (4.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CVCalendar
+  - IQKeyboardManagerSwift
+  - JPush
+  - Kingfisher
+  - MBProgressHUD
+  - MJExtension
+  - MJRefresh
+  - SnapKit
+  - SwiftyJSON
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CVCalendar
+    - IQKeyboardManagerSwift
+    - JCore
+    - JPush
+    - Kingfisher
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - SnapKit
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  CVCalendar: 515092247b9c5059855643c2a2220f259bd5417f
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  JCore: cae516dd2bf1a73b578ce6e1065abd49e709e0f7
+  JPush: 25dd9013fbe106082c14f9f30a82364ee98852fb
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  Toast-Swift: e42a638589a2f95036b4bb7626cfbdde7daf0393
+
+PODFILE CHECKSUM: 328e72fd5ca7d62ea1f1790699e741f4322967f8
+
+COCOAPODS: 1.5.3
